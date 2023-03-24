@@ -1,4 +1,4 @@
-![presentation](./images/presentation.png)
+👋 Hi there
 
 👨‍💻 ¡Hace ya 3 años que me aventuré en el emocionante mundo de la programación y todavía sigo aprendiendo y experimentando! 💻
 
